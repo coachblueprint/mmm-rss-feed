@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>“You’re braver than you believe, stronger...” - A.A. Milne</title>
+    <title>“If you look at how long the Earth has been...” - Jamie Foxx</title>
     <link>https://www.texinspec.com/monday-motivator</link>
     <description>Weekly motivation from TexInspec</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 17:15:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 13:02:12 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/jonathanscrow/mmm-rss-feed/refs/heads/main/mmm-feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>“You’re braver than you believe, stronger...” - A.A. Milne</title>
-      <link>https://www.texinspec.com/monday-motivator/wk006</link>
-      <guid isPermaLink="false">mmm-wk006-2026-06-15</guid>
-      <pubDate>Mon, 15 Jun 2026 12:00:00 -0600</pubDate>
+      <title>“If you look at how long the Earth has been...” - Jamie Foxx</title>
+      <link>https://www.texinspec.com/monday-motivator/wk007</link>
+      <guid isPermaLink="false">mmm-wk007-2026-06-22</guid>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 -0600</pubDate>
       <author>clientcare@texinspec.com (TexInspec)</author>
-      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e47167fd9a359377ab.png" alt="Monday Motivator Week 6" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
+      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4becb53a7350ae72a.png" alt="Monday Motivator Week 7" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
       <content:encoded><![CDATA[
 <div style="text-align:center;font-family:Georgia,serif;">
   <blockquote style="font-size:20px;font-style:italic;margin:24px auto;max-width:540px;line-height:1.5;">
-    &ldquo;You’re braver than you believe, stronger than you seem, and smarter than you think.&rdquo;
+    &ldquo;If you look at how long the Earth has been here, we&apos;re living in the blink of an eye. So whatever it is you want to do, you go out and do it.&rdquo;
   </blockquote>
-  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; A.A. Milne</p>
+  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; Jamie Foxx</p>
 </div>
 ]]></content:encoded>
-      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e47167fd9a359377ab.png" type="image/png" length="0" />
-      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e47167fd9a359377ab.png" medium="image" type="image/png" />
+      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4becb53a7350ae72a.png" type="image/png" length="0" />
+      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4becb53a7350ae72a.png" medium="image" type="image/png" />
     </item>
   </channel>
 </rss>

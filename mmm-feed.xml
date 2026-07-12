@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>“If we did all the things we are capable...” - Thomas Edison</title>
+    <title>“The only way to discover the limits of the...” - Arthur C. Clarke</title>
     <link>https://www.texinspec.com/monday-motivator</link>
     <description>Weekly motivation from TexInspec</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 15:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 11:52:03 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/jonathanscrow/mmm-rss-feed/refs/heads/main/mmm-feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>“If we did all the things we are capable...” - Thomas Edison</title>
-      <link>https://www.texinspec.com/monday-motivator/wk009</link>
-      <guid isPermaLink="false">mmm-wk009-2026-07-06</guid>
-      <pubDate>Mon, 06 Jul 2026 12:00:00 -0600</pubDate>
+      <title>“The only way to discover the limits of the...” - Arthur C. Clarke</title>
+      <link>https://www.texinspec.com/monday-motivator/wk010</link>
+      <guid isPermaLink="false">mmm-wk010-2026-07-13</guid>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 -0600</pubDate>
       <author>clientcare@texinspec.com (TexInspec)</author>
-      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4101c593bfc8299f7.png" alt="Monday Motivator Week 9" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
+      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e42c10cdf20f4fbbf3.png" alt="Monday Motivator Week 10" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
       <content:encoded><![CDATA[
 <div style="text-align:center;font-family:Georgia,serif;">
   <blockquote style="font-size:20px;font-style:italic;margin:24px auto;max-width:540px;line-height:1.5;">
-    &ldquo;If we did all the things we are capable of, we would literally astound ourselves.&rdquo;
+    &ldquo;The only way to discover the limits of the possible is to go beyond them into the impossible.&rdquo;
   </blockquote>
-  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; Thomas Edison</p>
+  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; Arthur C. Clarke</p>
 </div>
 ]]></content:encoded>
-      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4101c593bfc8299f7.png" type="image/png" length="0" />
-      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4101c593bfc8299f7.png" medium="image" type="image/png" />
+      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e42c10cdf20f4fbbf3.png" type="image/png" length="0" />
+      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e42c10cdf20f4fbbf3.png" medium="image" type="image/png" />
     </item>
   </channel>
 </rss>

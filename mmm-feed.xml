@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>“Always work hard and have fun in what you...” - Simone Biles</title>
+    <title>“To do the useful thing, to say the...” - T.S. Eliot</title>
     <link>https://www.texinspec.com/monday-motivator</link>
     <description>Weekly motivation from TexInspec</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 14:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 11:55:22 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/jonathanscrow/mmm-rss-feed/refs/heads/main/mmm-feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>“Always work hard and have fun in what you...” - Simone Biles</title>
-      <link>https://www.texinspec.com/monday-motivator/wk012</link>
-      <guid isPermaLink="false">mmm-wk012-2026-07-27</guid>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 -0600</pubDate>
+      <title>“To do the useful thing, to say the...” - T.S. Eliot</title>
+      <link>https://www.texinspec.com/monday-motivator/wk013</link>
+      <guid isPermaLink="false">mmm-wk013-2026-08-03</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 -0600</pubDate>
       <author>clientcare@texinspec.com (TexInspec)</author>
-      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e476fece50437c2bda.png" alt="Monday Motivator Week 12" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
+      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4101c593bfc8299fb.png" alt="Monday Motivator Week 13" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
       <content:encoded><![CDATA[
 <div style="text-align:center;font-family:Georgia,serif;">
   <blockquote style="font-size:20px;font-style:italic;margin:24px auto;max-width:540px;line-height:1.5;">
-    &ldquo;Always work hard and have fun in what you do because I think that’s when you’re more successful.&rdquo;
+    &ldquo;To do the useful thing, to say the courageous thing, to contemplate the beautiful thing: that is enough for one man&apos;s life.&rdquo;
   </blockquote>
-  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; Simone Biles</p>
+  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; T.S. Eliot</p>
 </div>
 ]]></content:encoded>
-      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e476fece50437c2bda.png" type="image/png" length="0" />
-      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e476fece50437c2bda.png" medium="image" type="image/png" />
+      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4101c593bfc8299fb.png" type="image/png" length="0" />
+      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4101c593bfc8299fb.png" medium="image" type="image/png" />
     </item>
   </channel>
 </rss>

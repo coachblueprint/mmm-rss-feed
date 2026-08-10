@@ -1,4 +1,4 @@
-Generated: 2026-08-09T11:21:30.937790+00:00
+Generated: 2026-08-10T13:06:46.168249+00:00
 Send date: 2026-08-10
 Week:      14
 Author:    Amy Poehler

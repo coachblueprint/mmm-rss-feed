@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>“You have to be where you are to get where...” - Amy Poehler</title>
+    <title>“You must do the thing you think you...” - Eleanor Roosevelt</title>
     <link>https://www.texinspec.com/monday-motivator</link>
     <description>Weekly motivation from TexInspec</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 13:06:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 11:12:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/jonathanscrow/mmm-rss-feed/refs/heads/main/mmm-feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>“You have to be where you are to get where...” - Amy Poehler</title>
-      <link>https://www.texinspec.com/monday-motivator/wk014</link>
-      <guid isPermaLink="false">mmm-wk014-2026-08-10</guid>
-      <pubDate>Mon, 10 Aug 2026 12:00:00 -0600</pubDate>
+      <title>“You must do the thing you think you...” - Eleanor Roosevelt</title>
+      <link>https://www.texinspec.com/monday-motivator/wk015</link>
+      <guid isPermaLink="false">mmm-wk015-2026-08-17</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 -0600</pubDate>
       <author>clientcare@texinspec.com (TexInspec)</author>
-      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e5a7386fa308a563da.png" alt="Monday Motivator Week 14" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
+      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e45facc6ea3147b456.png" alt="Monday Motivator Week 15" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
       <content:encoded><![CDATA[
 <div style="text-align:center;font-family:Georgia,serif;">
   <blockquote style="font-size:20px;font-style:italic;margin:24px auto;max-width:540px;line-height:1.5;">
-    &ldquo;You have to be where you are to get where you need to go.&rdquo;
+    &ldquo;You must do the thing you think you cannot do.&rdquo;
   </blockquote>
-  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; Amy Poehler</p>
+  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; Eleanor Roosevelt</p>
 </div>
 ]]></content:encoded>
-      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e5a7386fa308a563da.png" type="image/png" length="0" />
-      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e5a7386fa308a563da.png" medium="image" type="image/png" />
+      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e45facc6ea3147b456.png" type="image/png" length="0" />
+      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e45facc6ea3147b456.png" medium="image" type="image/png" />
     </item>
   </channel>
 </rss>

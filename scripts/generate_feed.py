@@ -34,6 +34,7 @@ Output: writes mmm-feed.xml to the repo root.
 
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone, timedelta
 from email.utils import format_datetime
@@ -154,6 +155,25 @@ def build_subject_title(quote, author, max_quote_chars=70):
     return f'\u201c{snippet}\u201d \u2014 {author.strip()}'
 
 
+def smart_quotes(s):
+    """Convert straight quotes to curly (typographic) quotes.
+
+    GHL HTML-escapes straight ' and " when it inserts {{rss_feed.title}} into
+    the subject line, so they show up in inboxes as &#x27; and &quot;.
+    Curly equivalents pass through untouched. Applied to every title, including
+    the hand-curated subject_line column from the Sheet.
+
+    Example:
+      'When I hear somebody sigh, \\'Life is hard,\\'...' ; don't
+       -> 'When I hear somebody sigh, \u2018Life is hard,\u2019...' ; don\u2019t
+    """
+    s = re.sub(r"(^|[\s(\[{\u2014-])'", "\\1\u2018", s)  # opening single
+    s = s.replace("'", "\u2019")                          # closing single / apostrophe
+    s = re.sub(r'(^|[\s(\[{\u2014-])"', '\\1\u201c', s)  # opening double
+    s = s.replace('"', '\u201d')                          # closing double
+    return s
+
+
 # ---------------------------------------------------------------------------
 # Build the RSS feed XML
 # ---------------------------------------------------------------------------
@@ -207,6 +227,7 @@ def build_feed(row, generated_at_utc):
     if not title:
         title = build_subject_title(quote, author)
         print(f"  WARNING: subject_line column was empty, auto-generated: {title}")
+    title = smart_quotes(title)
 
     # GUID stable per week
     guid = f"mmm-wk{int(week):03d}-{send_date}"

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>“Never bend your head. Always hold it high...” - Helen Keller</title>
+    <title>“Nothing is impossible. The word itself...” - Audrey Hepburn</title>
     <link>https://www.texinspec.com/monday-motivator</link>
     <description>Weekly motivation from TexInspec</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 21:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 16:52:30 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/jonathanscrow/mmm-rss-feed/refs/heads/main/mmm-feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>“Never bend your head. Always hold it high...” - Helen Keller</title>
-      <link>https://www.texinspec.com/monday-motivator/wk026</link>
-      <guid isPermaLink="false">mmm-wk026-2026-11-02</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 -0600</pubDate>
+      <title>“Nothing is impossible. The word itself...” - Audrey Hepburn</title>
+      <link>https://www.texinspec.com/monday-motivator/wk027</link>
+      <guid isPermaLink="false">mmm-wk027-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 -0600</pubDate>
       <author>clientcare@texinspec.com (TexInspec)</author>
-      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e42c10cdf20f4fbbea.png" alt="Monday Motivator Week 26" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
+      <description><![CDATA[<img src="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4becb53a7350ae727.png" alt="Monday Motivator Week 27" style="max-width:600px;width:100%;height:auto;display:block;margin:0 auto;" />]]></description>
       <content:encoded><![CDATA[
 <div style="text-align:center;font-family:Georgia,serif;">
   <blockquote style="font-size:20px;font-style:italic;margin:24px auto;max-width:540px;line-height:1.5;">
-    &ldquo;Never bend your head. Always hold it high. Look the world straight in the eye.&rdquo;
+    &ldquo;Nothing is impossible. The word itself says &apos;I&apos;m possible!&apos;&rdquo;
   </blockquote>
-  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; Helen Keller</p>
+  <p style="font-size:16px;color:#555;margin-top:16px;">&mdash; Audrey Hepburn</p>
 </div>
 ]]></content:encoded>
-      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e42c10cdf20f4fbbea.png" type="image/png" length="0" />
-      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e42c10cdf20f4fbbea.png" medium="image" type="image/png" />
+      <enclosure url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4becb53a7350ae727.png" type="image/png" length="0" />
+      <media:content url="https://assets.cdn.filesafe.space/Q9BBw0k6pwAG1UWv1dSU/media/69fa42e4becb53a7350ae727.png" medium="image" type="image/png" />
     </item>
   </channel>
 </rss>
